@@ -27,12 +27,12 @@ I like problems that span hardware and software at once — from flight electron
 |---|---|---|
 | [**Galassia-5 CubeSat**](https://www.galassia.space/) — *PCB Lead* | Flight PCB design, integration &amp; verification | PCB · Space hardware |
 | [**Autonomous Robot (CDE2310)**](https://hong-yiii.github.io/CDE2310_System_Design/) | Electrical subsystem of a ROS2 robot | ROS2 · LiDAR · Thermal vision |
-| **BrainHack (DSTA)** | Autonomous drone — CV target detection → swarm semi-final | OpenCV · RealSense · ArUco/AprilTag |
+| [**BrainHack (DSTA)**](https://github.com/zhengboon/ArtificiallyUnintelligent) | Two-stage autonomous drone — mapping + Hula swarm; reached finals | OpenCV · RealSense · ArUco |
 | [**PODA**](https://www.zaobao.com.sg/news/singapore/story20220108-1230692) | Embedded AI CV prototype (in national press) | OpenCV · TensorFlow |
 | [**Kings Call**](https://github.com/zhengboon/kingscallh5stuff) | Agentic game automation + RL | Vision · RL · Agents |
 | [**AR Wayfinding (CDE2501)**](https://github.com/zhengboon/CDE2501-AR-Wayfinding) | Unity AR smart-city navigation | Unity · AR |
 | [**Shape of Sound**](https://zhengboon.github.io/Shape-Of-Sound/) | Restored interactive sound installation | Arduino · Sensors · PCB |
-| [**Developer Automation Skills**](https://github.com/zhengboon/CaludeCodeSkills) | Open-source multi-agent toolkit | Python · Multi-agent |
+| **Developer Automation Skills** | Multi-agent dev-automation toolkit | Python · Multi-agent |
 | [**LinkedIn Translator**](https://t-kandasami.github.io/makeLinkedinReadableAgain/) | Decodes corporate jargon on LinkedIn | FastAPI · Tampermonkey · Docker |
 
 ### Skills
