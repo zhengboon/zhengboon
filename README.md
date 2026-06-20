@@ -33,6 +33,7 @@ I like problems that span hardware and software at once — from flight electron
 | [**AR Wayfinding (CDE2501)**](https://github.com/zhengboon/CDE2501-AR-Wayfinding) | Unity AR smart-city navigation | Unity · AR |
 | [**Shape of Sound**](https://zhengboon.github.io/Shape-Of-Sound/) | Restored interactive sound installation | Arduino · Sensors · PCB |
 | **Developer Automation Skills** | Multi-agent dev-automation toolkit | Python · Multi-agent |
+| [**PianoLearner**](https://github.com/zhengboon/PianoLearner) | Synthesia-style piano trainer w/ real-time pitch detection | Kotlin · Compose · MIDI · DSP |
 | [**LinkedIn Translator**](https://t-kandasami.github.io/makeLinkedinReadableAgain/) | Decodes corporate jargon on LinkedIn | FastAPI · Tampermonkey · Docker |
 
 ### Skills
@@ -46,6 +47,10 @@ I like problems that span hardware and software at once — from flight electron
 
 **B.Eng. Electrical &amp; Computer Engineering**, National University of Singapore — *Jan 2024 – Dec 2028* (2nd Major: Innovation &amp; Design, IDP)
 **Diploma in Electronic &amp; Computer Engineering**, Ngee Ann Polytechnic — *2019 – 2022* (Network Systems &amp; Security)
+
+### Beyond engineering
+
+🥋 **NUS Taekwondo Varsity Team** — competed at the Taekwondo Open Championship (TOC) 2026.
 
 ---
 
